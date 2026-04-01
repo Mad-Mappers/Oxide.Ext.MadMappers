@@ -2,7 +2,7 @@
 
 🇬🇧 English | [🇷🇺 Русский](README.ru.md)
 
-A library designed to extend and simplify development for Oxide-based Rust plugins.
+A library designed to extend and simplify development for Rust plugins.
 
 ---
 
